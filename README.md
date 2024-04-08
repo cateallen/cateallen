@@ -1,5 +1,5 @@
 
-<img src="https://github.com/cateallen/cateallen/assets/137816906/4ec00a67-5053-42dc-a075-030a50f7fccb" width="1200" height="500">
+<img src="https://github.com/cateallen/cateallen/assets/137816906/4ec00a67-5053-42dc-a075-030a50f7fccb" width="1100" height="400">
 
 
 
