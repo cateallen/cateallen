@@ -3,10 +3,11 @@
 
 
 
-Hi I'm Cate, a Quantitative Data Analyst / Engineer with experience in data analysis and visualizations, 
+Hi I'm Cate, a Quantitative Data Analyst / Engineer with experience in machine learning, NLP, data analysis,
 statistical data modeling, and developing software-based intelligent automation solutions.
 
 
++ I double majored in Mathematics and Economics with a minor in Statistics - I am currently interested in BFS and DFS algoirthms
 + Experienced in automating ETL pipelines, involved in setting up data migration processes from heterogenous systems
 + Querying and constructing data table schemas using SQL
 + Generating statistical models, data transformation and analysis using SQL
@@ -15,7 +16,7 @@ statistical data modeling, and developing software-based intelligent automation 
 
 
 📚 Projects
-+ Welcome to my page, where I showcase some of my [projects](https://github.com/cateallen?tab=repositories)
++ Welcome to my projects page [projects](https://github.com/cateallen?tab=repositories)
 
 
 
