@@ -15,7 +15,7 @@ statistical data modeling, and developing software-based intelligent automation 
 
 
 📚 Projects
-+ Welcome to my page, where I showcase some of my [projects](https://github.com/cateallen/cateallen/projects?query=is%3Aopen)
++ Welcome to my page, where I showcase some of my [projects](https://github.com/cateallen?tab=repositories)
 
 
 
