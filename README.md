@@ -15,8 +15,8 @@ statistical data modeling, and developing software-based intelligent automation 
 + Developing Intelligent Automation Bots that can run unattended on virtual machines
 
 
-📚 Projects
-+ Welcome to my projects page [projects](https://github.com/cateallen?tab=repositories)
+📚 Portfiolio and Project Guide
++ [Portfolio Guide](https://github.com/cateallen?tab=repositories)
 
 
 
