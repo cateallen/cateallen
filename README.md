@@ -16,7 +16,7 @@ statistical data modeling, and developing software-based intelligent automation 
 
 
 📚 Portfiolio and Project Guide
-+ [Portfolio Guide]((https://github.com/cateallen/Portfolio-Guide)
++ [Portfolio Guide](https://github.com/cateallen/Portfolio-Guide)
 
 
 
