@@ -7,7 +7,7 @@ Hi I'm Cate, a Quantitative Data Analyst / Engineer with experience in machine l
 statistical data modeling, and developing software-based intelligent automation solutions.
 
 
-+ I double majored in Mathematics and Economics with a minor in Statistics - I am currently interested in BFS and DFS algoirthms
++ I double majored in Mathematics and Economics with a minor in Statistics
 + Experienced in automating ETL pipelines, involved in setting up data migration processes from heterogenous systems
 + Querying and constructing data table schemas using SQL
 + Generating statistical models, data transformation and analysis using SQL
