@@ -8,8 +8,8 @@
 - 🤔 &nbsp; I am a Quantitative Data Analyst / Engineer with experience in machine learning, NLP, data analysis,
 statistical data modeling, and developing software-based intelligent automation solutions.
 
-### :fire: My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cateallen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+//### :fire: My Stats
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cateallen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 Portfolio and Project Content Guide
 - [Generative AI](https://github.com/cateallen/Portfolio-Guide?tab=readme-ov-file#generative-ai)
