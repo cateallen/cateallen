@@ -3,11 +3,6 @@
 
 ## I'm Cate.
 
-### 💻 &nbsp;A little bit about Me 
-
-- 🤔 &nbsp; I am a Quantitative Data Analyst / Engineer with experience in machine learning, NLP, data analysis,
-statistical data modeling, and developing software-based intelligent automation solutions.
-
 ### 📚 Portfolio and Project Content Guide
 - [Generative AI](https://github.com/cateallen/Portfolio-Guide?tab=readme-ov-file#generative-ai)
 - [Alogrithmic AI](https://github.com/cateallen/Portfolio-Guide?tab=readme-ov-file#algorithmic-ai)
